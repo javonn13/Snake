@@ -1,6 +1,6 @@
 # Snake
 A simple 2D snake game where the snake grows every time it takes a bite of an object (apple) made by Unity
-
+(STILL IN PROGRESS: I still have to add a Game Over, Menu, and a end game function if it hits the wall or itself)
 
 
 ![image](https://user-images.githubusercontent.com/57652233/123562995-e4313c00-d766-11eb-9930-1226963c5ec1.png)
